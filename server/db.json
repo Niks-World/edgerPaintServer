@@ -1,5 +1,5 @@
 {
-    "paintPN" :[
+    "paintPinturas" :[
         {
             "id" : 1,
             "image" :"./img PN/1.png",
@@ -304,4 +304,5 @@
 
         }
     ]
+
 } 
