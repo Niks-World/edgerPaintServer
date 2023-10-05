@@ -212,6 +212,96 @@
             "series" :" ",
             "mesaurment" :"42 cm x 57 cm"
 
+        },
+        {
+            "id" : 13,
+            "image" :"./img PN/13.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Xavier Rodríguez",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Hombre con dados",
+            "technique" :" ",
+            "dateofpaint" :"1982",
+            "series" :" ",
+            "mesaurment" :"55 cm x 87 cm"
+
+        },
+        {
+            "id" : 14,
+            "image" :"./img PN/14.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Javier Klitz",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Mesa de pintura",
+            "technique" :"Carbón",
+            "dateofpaint" :"1983",
+            "series" :" ",
+            "mesaurment" :"50 cm x 55 cm"
+
+        },
+        {
+            "id" : 15,
+            "image" :"./img PN/15.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Solleiro",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Marina",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :" ",
+            "series" :" ",
+            "mesaurment" :" "
+
+        },
+        {
+            "id" : 16,
+            "image" :"./img PN/16.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Antonio Loperena",
+            "place&DOB" :"Arguedas, España/1922_",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Caballos",
+            "technique" :"Óleo",
+            "dateofpaint" :" ",
+            "series" :" ",
+            "mesaurment" :"40 cm x 56 cm"
+
+        },
+        {
+            "id" : 17,
+            "image" :"./img PN/17.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Solleiro",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Toreras",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :" ",
+            "series" :" ",
+            "mesaurment" :"1.50 cm x 1.20 cm"
+
         }
     ]
 } 
