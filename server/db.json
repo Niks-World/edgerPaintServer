@@ -1,0 +1,217 @@
+{
+    "paintPN" :[
+        {
+            "id" : 1,
+            "image" :"./img PN/1.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+            "name" :"Nombre: Juan Calderón (J.Calderón)",
+            "place&DOB" :"Monclova Coah./1938",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"La cita",
+            "technique" :"",
+            "dateofpaint" :"1986",
+            "series" :"158/200",
+            "mesaurment" :" "
+
+        },
+        {
+            "id" : 2,
+            "image" :"./img PN/2.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+            "name" :"Mario Martínez",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"",
+            "dateofpaint" :"1984",
+            "series" :"147/180",
+            "mesaurment" :" "
+
+        },
+        {
+            "id" : 3,
+            "image" :"./img PN/3.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+            "name" :"Catalina",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Óleo",
+            "dateofpaint" :"1890",
+            "series" :"147/180",
+            "mesaurment" :" "
+
+        },
+        {
+            "id" : 4,
+            "image" :"./img PN/4.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Xavier Rodríguez",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Caballos",
+            "technique" :" ",
+            "dateofpaint" :"1979",
+            "series" :" ",
+            "mesaurment" :"50 cm x 49 cm"
+
+        },
+        {
+            "id" : 5,
+            "image" :"./img PN/5.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Francisco Zúñiga",
+            "place&DOB" :"1912/ San José de Costa Rica",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Dibujo/ carbón",
+            "dateofpaint" :"1974",
+            "series" :" ",
+            "mesaurment" :"47 cm x 63 cm"
+
+        },
+        {
+            "id" : 6,
+            "image" :"./img PN/6.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Granda",
+            "place&DOB" :"Madrid /1941",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :" ",
+            "dateofpaint" :"1984",
+            "series" :"80/100",
+            "mesaurment" :"20 cm x 30 cm"
+
+        },
+        {
+            "id" : 7,
+            "image" :"./img PN/7.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Mf. Muñoz",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"1978",
+            "series" :" ",
+            "mesaurment" :"42.5 cm x 57.5 cm"
+
+        },
+        {
+            "id" : 8,
+            "image" :"./img PN/8.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Mf. Muñoz",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"1980",
+            "series" :" ",
+            "mesaurment" :"42 cm x 57 cm"
+
+        },
+        {
+            "id" : 9,
+            "image" :"./img PN/9.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Mf. Muñoz",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"1972",
+            "series" :" ",
+            "mesaurment" :"42 cm x 57 cm"
+
+        },
+        {
+            "id" : 10,
+            "image" :"./img PN/10.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Salvador Castro",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"El vuelo y la manzana",
+            "technique" :" ",
+            "dateofpaint" :"1989",
+            "series" :"170 / 200",
+            "mesaurment" :"50 cm x 34 cm"
+
+        },
+        {
+            "id" : 11,
+            "image" :"./img PN/11.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Nelson Sarabia",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Mágica luz”",
+            "technique" :"Carbón",
+            "dateofpaint" :"1990",
+            "series" :"30 / 100",
+            "mesaurment" :"66 cm x 49 cm"
+
+        },
+        {
+            "id" : 12,
+            "image" :"./img PN/12.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Nelson Sarabia",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"1980",
+            "series" :" ",
+            "mesaurment" :"42 cm x 57 cm"
+
+        }
+    ]
+} 
