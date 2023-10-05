@@ -303,6 +303,25 @@
             "mesaurment" :"1.50 cm x 1.20 cm"
 
         }
+    ],
+    "piantPinturasNuevas" :[
+        {
+            "id" : 1,
+            "image" :"",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"R. Espino Barros",
+            "place&DOB" :"Jalapa Veracuz_1918-2000",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Torero",
+            "technique" :"Acuarela",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"45 cm x 36 cm"
+        }
     ]
 
 } 
