@@ -321,6 +321,142 @@
             "dateofpaint" :"",
             "series" :" ",
             "mesaurment" :"45 cm x 36 cm"
+        },
+        {
+            "id" : 2,
+            "image" :"./img Pnuevas/2.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"R. Espino Barros",
+            "place&DOB" :"Jalapa Veracuz_1918-2000",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Torero",
+            "technique" :"Acuarela",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"45 cm x 36 cm"
+        },
+        {
+            "id" : 3,
+            "image" :"./img Pnuevas/3.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"R. Espino Barros",
+            "place&DOB" :"Jalapa Veracuz_1918-2000",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Torero",
+            "technique" :"Acuarela",
+            "dateofpaint" :"1995",
+            "series" :" ",
+            "mesaurment" :"45 cm x 36 cm"
+        },
+        {
+            "id" : 4,
+            "image" :"./img Pnuevas/4.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Carlos Ruano Llopis_",
+            "place&DOB" :"Orba España (1878- 1950)_",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Maja",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"65 cm x 55 cm"
+        },
+        {
+            "id" : 5,
+            "image" :"./img Pnuevas/5.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Jesús Reyes Ferreira",
+            "place&DOB" :"Guadalajara, Jalisco 1882-1977",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Gallo",
+            "technique" :" ",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"48 cm x 72 cm"
+        },
+        {
+            "id" : 6,
+            "image" :"./img Pnuevas/6.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Diego María Rivera",
+            "place&DOB" :"_Guanajuato, México (1886-1957)",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Indigena",
+            "technique" :"Carbón sobre papel",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"22 cm x 33 cm"
+        },
+        {
+            "id" : 7,
+            "image" :"./img Pnuevas/7.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Solleiro",
+            "place&DOB" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Marina",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :""
+        },
+        {
+            "id" : 8,
+            "image" :"./img Pnuevas/8.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Antonio Loperena",
+            "place&DOB" :"Arguedas, España/1922",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Caballos",
+            "technique" :"Óleo",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"40 cm x 56 cm"
+        },
+        {
+            "id" : 9,
+            "image" :"./img Pnuevas/9.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Solleiro",
+            "place&DOB" :"",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Toreras",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :"",
+            "series" :" ",
+            "mesaurment" :"1.50 cm x 1.20 cm"
         }
     ]
 
