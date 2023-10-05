@@ -307,7 +307,7 @@
     "piantPinturasNuevas" :[
         {
             "id" : 1,
-            "image" :"",
+            "image" :"./img Pnuevas/1.png",
             "titel" :"FICHA TÉCNICA",
             "title2" :"DATOS DEL AUTOR:",
 
