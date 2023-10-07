@@ -318,7 +318,7 @@
 
             "paintTitle" :"Torero",
             "technique" :"Acuarela",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo:_XX",
             "series" :" ",
             "mesaurment" :"45 cm x 36 cm"
         },
@@ -335,7 +335,7 @@
 
             "paintTitle" :"Torero",
             "technique" :"Acuarela",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo:_XX",
             "series" :" ",
             "mesaurment" :"45 cm x 36 cm"
         },
@@ -352,7 +352,7 @@
 
             "paintTitle" :"Torero",
             "technique" :"Acuarela",
-            "dateofpaint" :"1995",
+            "dateofpaint" :"Fecha de la obra: 1995",
             "series" :" ",
             "mesaurment" :"45 cm x 36 cm"
         },
@@ -386,7 +386,7 @@
 
             "paintTitle" :"Gallo",
             "technique" :" ",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo:_XX",
             "series" :" ",
             "mesaurment" :"48 cm x 72 cm"
         },
@@ -403,7 +403,7 @@
 
             "paintTitle" :"Indigena",
             "technique" :"Carbón sobre papel",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo XX",
             "series" :" ",
             "mesaurment" :"22 cm x 33 cm"
         },
@@ -420,7 +420,7 @@
 
             "paintTitle" :"Marina",
             "technique" :"Óleo sobre tela",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo:_XX",
             "series" :" ",
             "mesaurment" :""
         },
@@ -437,7 +437,7 @@
 
             "paintTitle" :"Caballos",
             "technique" :"Óleo",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo:_XX",
             "series" :" ",
             "mesaurment" :"40 cm x 56 cm"
         },
@@ -454,7 +454,7 @@
 
             "paintTitle" :"Toreras",
             "technique" :"Óleo sobre tela",
-            "dateofpaint" :"",
+            "dateofpaint" :"Siglo:_XX",
             "series" :" ",
             "mesaurment" :"1.50 cm x 1.20 cm"
         }
